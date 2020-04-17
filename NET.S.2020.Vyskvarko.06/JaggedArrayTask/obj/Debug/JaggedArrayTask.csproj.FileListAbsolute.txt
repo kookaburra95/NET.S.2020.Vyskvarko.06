@@ -1,0 +1,10 @@
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTask\bin\Debug\JaggedArrayTask.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTask\bin\Debug\JaggedArrayTask.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTask\bin\Debug\nunit.framework.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTask\bin\Debug\nunit.framework.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTask\bin\Debug\nunit.framework.xml
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTask\obj\Debug\JaggedArrayTask.csprojAssemblyReference.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTask\obj\Debug\JaggedArrayTask.csproj.CoreCompileInputs.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTask\obj\Debug\JaggedArrayTask.csproj.CopyComplete
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTask\obj\Debug\JaggedArrayTask.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTask\obj\Debug\JaggedArrayTask.pdb

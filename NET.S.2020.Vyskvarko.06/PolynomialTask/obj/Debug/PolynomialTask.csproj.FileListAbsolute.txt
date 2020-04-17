@@ -1,0 +1,10 @@
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTask\bin\Debug\PolynomialTask.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTask\bin\Debug\PolynomialTask.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTask\bin\Debug\nunit.framework.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTask\bin\Debug\nunit.framework.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTask\bin\Debug\nunit.framework.xml
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTask\obj\Debug\PolynomialTask.csprojAssemblyReference.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTask\obj\Debug\PolynomialTask.csproj.CoreCompileInputs.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTask\obj\Debug\PolynomialTask.csproj.CopyComplete
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTask\obj\Debug\PolynomialTask.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTask\obj\Debug\PolynomialTask.pdb

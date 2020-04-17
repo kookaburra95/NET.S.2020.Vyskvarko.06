@@ -1,0 +1,12 @@
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\bin\Debug\JaggedArrayTaskUnitTests.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\bin\Debug\JaggedArrayTaskUnitTests.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\bin\Debug\JaggedArrayTask.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\bin\Debug\nunit.framework.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\bin\Debug\JaggedArrayTask.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\bin\Debug\nunit.framework.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\bin\Debug\nunit.framework.xml
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\obj\Debug\JaggedArrayTaskUnitTests.csprojAssemblyReference.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\obj\Debug\JaggedArrayTaskUnitTests.csproj.CoreCompileInputs.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\obj\Debug\JaggedArrayTaskUnitTests.csproj.CopyComplete
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\obj\Debug\JaggedArrayTaskUnitTests.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\JaggedArrayTaskUnitTests\obj\Debug\JaggedArrayTaskUnitTests.pdb

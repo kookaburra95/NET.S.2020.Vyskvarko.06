@@ -1,0 +1,12 @@
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\bin\Debug\PolynomialTaskUnitTests.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\bin\Debug\PolynomialTaskUnitTests.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\bin\Debug\nunit.framework.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\bin\Debug\PolynomialTask.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\bin\Debug\PolynomialTask.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\bin\Debug\nunit.framework.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\bin\Debug\nunit.framework.xml
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\obj\Debug\PolynomialTaskUnitTests.csprojAssemblyReference.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\obj\Debug\PolynomialTaskUnitTests.csproj.CoreCompileInputs.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\obj\Debug\PolynomialTaskUnitTests.csproj.CopyComplete
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\obj\Debug\PolynomialTaskUnitTests.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.06\PolynomialTaskUnitTests\obj\Debug\PolynomialTaskUnitTests.pdb
